@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alunos Firestore</string>
+    <string name="add_student">Adicionar aluno</string>
+    <string name="student_name">Nome do aluno</string>
+    <string name="birth_year">Ano de nascimento</string>
+    <string name="student_promptuary">Prontuário do aluno</string>
+</resources>
